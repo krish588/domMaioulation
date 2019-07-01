@@ -1,0 +1,9 @@
+#app {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 450px;
+    width: 250px;
+}
